@@ -48,7 +48,6 @@ The analysis was performed using Python with the following libraries:
 - pandas and numpy for data manipulation
 - matplotlib and seaborn for data visualization
 - scikit-learn for machine learning models and data preprocessing
-- Pipeline and ColumnTransformer for efficient data transformation
 
 ## Usage
 The trained model can be used to:
