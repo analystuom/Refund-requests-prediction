@@ -1,4 +1,4 @@
-# MavenRail Ticket Refund Prediction
+# 🚆🎫 MavenRail Ticket Refund Prediction
 
 ## Project Overview
 This project analyzes train ticket sales data from the UK National Rail services to predict when customers are likely to request refunds. Using exploratory data analysis and regression modeling, the project aims to provide insights into refund patterns and build a predictive model to help railway operators anticipate refund requests.
